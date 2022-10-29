@@ -1,0 +1,179 @@
+<mjml>
+    <mj-head>
+        <mj-title>Th? m?i tham d? Talkshow: A Step Forward - Ti?n s? ki?n Big Game 2022</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=opensans:300,500"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Roboto, Helvetica, sans-serif"></mj-all>
+            <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+    </mj-head>
+    <mj-body>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image href="https://www.facebook.com/SupportGroupUET/"
+                          src="https://raw.githubusercontent.com/nyvietnam/mjml/main/header-tuyen-quan.png"></mj-image>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+                <mj-text align="center" font-weight="900" padding="0px" font-size="22px">Thông báo vòng ph?ng v?n -
+                    Tuy?n quân S11
+                </mj-text>
+                <mj-text align="center" font-weight="500" padding-top="15px" font-size="20px">Câu l?c b? H? tr? sinh
+                    viên - SGUET
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text padding-top="20px">
+                    <p>Chào b?n,</p>
+
+                    <p>L?i ??u tiên, <strong>Câu l?c b? H? tr? sinh viên tr??ng ??i h?c Công ngh? - SGUET</strong> xin
+                        ???c g?i l?i c?m ?n t?i b?n vì ?ã nhi?t tình tham gia s? ki?n <strong>Tuy?n quân S11</strong> c?a
+                        chúng mình!
+                    </p>
+
+                    <p>M? ??u cho chu?i s? ki?n tuy?n quân n?m nay chính là vòng ??n ?ã ???c chúng mình tri?n khai và
+                        thông tin ??n các b?n qua fanpage <a
+                                href="https://www.facebook.com/SupportGroupUET/posts/443862607858550">SGUET</a>. Sau quá
+                        trình xét duy?t ??n k? l??ng, chúng mình ?ánh giá cao s? th? hi?n c?a b?n qua các câu h?i mà
+                        chúng mình ??a ra và xin ???c <strong>chúc m?ng b?n ?ã v??t qua Vòng ??n</strong> - vòng ??u
+                        tiên trong chu?i k? ho?ch tuy?n quân S11 c?a SGUET.
+                    </p>
+
+                    <p>SGUET xin g?i t?i b?n th?i gian và ??a ?i?m t? ch?c <strong>Vòng 2 - Vòng Ph?ng v?n</strong> nh?
+                        sau:
+                    </p>
+
+                    <p>
+                        <strong>Bu?i 1:</strong>
+                    <ul padding-right="50p">
+                        <li>? <strong>Th?i gian:</strong>19h00 ngày 31/10/2022 (th? hai)
+                        </li>
+                        <li>?? <strong>??a ?i?m:</strong> Phòng 309, Gi?ng ???ng 2
+                        </li>
+                    </ul>
+
+
+                    <p>
+                        <strong>Bu?i 2:</strong>
+                    <ul padding-right="50p">
+                        <li>? <strong>Th?i gian:</strong>19h00 ngày 1/11/2022 (th? ba)
+                        </li>
+                        <li>?? <strong>??a ?i?m:</strong> Phòng 312, Gi?ng ???ng 2
+                        </li>
+                    </ul>
+
+                    <p>
+                        <strong>Bu?i 3: (ch? dành cho ban TCSK và ban TVHT)</strong>
+                    <ul padding-right="50p">
+                        <li>? <strong>Th?i gian:</strong>19h00 ngày 2/11/2022 (th? t?)
+                        </li>
+                        <li>?? <strong>??a ?i?m:</strong> Phòng 309, Gi?ng ???ng 2
+                        </li>
+                    </ul>
+
+                    <br></br>
+
+                    <p>?ây là c? h?i duy nh?t trong n?m ?? b?n có th? tr? thành m?t thành viên c?a ??i gia ?ình SGUET,
+                        v?y nên chúng mình r?t hy v?ng b?n có th? tham gia ph?ng v?n vào <strong>m?t trong các kho?ng
+                            th?i gian
+                        </strong> nêu trên, ??ng th?i xác nh?n tham gia ? ???ng link d??i ?ây giúp chúng mình
+                        <strong>tr??c 23h59 ngày 28/11/2022</strong>
+                    </p>
+
+                </mj-text>
+
+
+                <mj-button background-color="#4d91eb" color="#ffffff" font-size="15px"
+                           href="https://forms.gle/ptdRbnqkqnHYBk4S8">Xác nh?n tham gia
+                </mj-button>
+
+
+                <mj-text>
+                    <p>N?u có b?t k? th?c m?c nào, các b?n có th? g?i mail v? cho CLB, ho?c inbox tr?c ti?p cho page <a
+                            href="https://www.facebook.com/SupportGroupUET">SGUET</a>. Chúc b?n bình t?nh, t? tin và th?
+                        hi?n ???c h?t kh? n?ng c?a mình!
+                    </p>
+
+                    <p>
+                        <i></i>
+                    </p>
+                </mj-text>
+
+                <mj-text>
+                    <p>Thân g?i,</p>
+                    <p>
+                        <strong>
+                            <i>SGUET</i>
+                        </strong>
+                    </p>
+                </mj-text>
+
+
+                <mj-spacer height="50px"></mj-spacer>
+
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+
+            <mj-column width="100%">
+                <mj-divider border-width="0.5px" border-color="#616161" width="80%"></mj-divider>
+            </mj-column>
+
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image href="https://www.facebook.com/SupportGroupUET"
+                          src="https://raw.githubusercontent.com/nyvietnam/mjml/main/logo-sguet.png">
+                </mj-image>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-size="15px">
+                    <strong>Câu l?c b? H? tr? sinh viên tr??ng ??i h?c Công ngh? - SGUET</strong>
+                </mj-text>
+
+                <mj-text line-height="18px">
+                    <p>
+                        <strong>Email:</strong>
+                        <a href="mailto:lienhe.sguet@gmail.com">lienhe.sguet@gmail.com</a>
+                    </p>
+                    <p>
+                        <strong>Fanpage:</strong>
+                        <a href="facebook.com/SupportGroupUET">facebook.com/SupportGroupUET</a>
+                    </p>
+                    <p>
+                        <strong>??a ch?:</strong>
+                        144 Xuân Th?y, D?ch V?ng, C?u Gi?y, Hà N?i
+                    </p>
+                    <p>
+                        <strong>?i?n tho?i:</strong>
+                        0932321211 - Ch? nhi?m Nguy?n Trung Hi?u
+                    </p>
+                </mj-text>
+
+                <mj-social align="center" icon-size="30px">
+                    <mj-social-element href="https://www.facebook.com/SupportGroupUET"
+                                       name="facebook"></mj-social-element>
+                    <mj-social-element href="https://www.youtube.com/c/SGUET/" name="youtube"></mj-social-element>
+                    <mj-social-element href="https://www.instagram.com/sguet_cfs/" name="instagram"></mj-social-element>
+                    <mj-social-element href="mailto:lienhe.sguet@gmail.com" name="google"></mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="65%">
+
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
