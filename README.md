@@ -19,7 +19,7 @@ Nhìn chung nên hiểu 1 chút, biết 1 chút kiến thức về HTML, một s
 
 - Lên youtube hay google mà kiếm thêm templates và cách dùng :))
 
-<h2> DÀNH CHO TÂN ĐỨC </h2>
+<h2> HEHE </h2>
 
 - Mở mấy folder trong này ra, lấy ra 1 file .mjml bất kỳ, có thể lấy [cái này](https://github.com/Haha6400/MJML/blob/96f11ac6e85f6d677a1f7441f206a864ede13f0d/formMail.mjml)
 
