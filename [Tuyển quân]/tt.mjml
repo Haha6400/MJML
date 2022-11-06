@@ -1,9 +1,9 @@
 <mjml>
   <mj-head>
     <mj-title><strong>[SGUET]</strong> Thử thách vòng Teamwork ban Truyền thông - Tuyển quân S11</mj-title>
-    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=opensans:300,500"></mj-font>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
     <mj-attributes>
-      <mj-all font-family=""></mj-all>
+      <mj-all font-family="Roboto ,Helvetica, sans-serif"></mj-all>
       <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
       <mj-section padding="0px"></mj-section>
     </mj-attributes>
@@ -39,7 +39,7 @@
         </mj-text>
 
 
-        <mj-button background-color="#4d91eb" color="#ffffff" font-size="15px" href="https://drive.google.com/file/d/1L6ecSXhpGfP1zSIH7V8KWanndoldJOJS/view?usp=sharing">THỬ THÁCH VÒNG TEAMWORK<br>BAN TRUYỀN THÔNG</br>
+        <mj-button background-color="#4d91eb" color="#ffffff" font-size="15px" href="https://drive.google.com/file/d/1L6ecSXhpGfP1zSIH7V8KWanndoldJOJS/view?usp=sharing">Thử thách vòng Teamwork<br>ban Truyền thông</br>
 
         </mj-button>
 
