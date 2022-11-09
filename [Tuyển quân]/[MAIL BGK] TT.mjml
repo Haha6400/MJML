@@ -1,0 +1,143 @@
+<mjml>
+    <mj-head>
+        <mj-title><strong>[SGUET]</strong> Thư mời Ban giám khảo vòng Teamwork - Tuyển quân S11</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
+        <mj-attributes>
+            <mj-all font-family="Roboto ,Helvetica, sans-serif"></mj-all>
+            <mj-text font-weight="300" font-size="16px" color="#616161" line-height="24px"></mj-text>
+            <mj-section padding="0px"></mj-section>
+        </mj-attributes>
+        <mj-style inline="inline">
+            .left {
+            background-color: #4d91eb;
+            margin-right: 5px;
+            }
+
+            .right {
+            background-color: #4d91eb;
+            margin-spacing: 10px;
+            }
+        </mj-style>
+    </mj-head>
+    <mj-body>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-image href="https://www.facebook.com/SupportGroupUET/" src="https://raw.githubusercontent.com/Haha6400/MJML/main/%5BTuy%E1%BB%83n%20qu%C3%A2n%5D/images/TH%C6%AF%20M%E1%BB%9CI%20BGK.png"></mj-image>
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+                <mj-text align="center" font-weight="900" padding="0px" font-size="22px"><strong>Thư mời Ban giám khảo vòng Teamwork</strong>
+                </mj-text>
+
+                <mj-text align="center" font-weight="900" padding="5px" font-size="22px"><strong>Ban Truyền thông - Tuyển quân S11 </strong>
+                </mj-text>
+                <mj-text align="center" font-weight="500" padding-top="15px" font-size="20px">Câu lạc bộ Hỗ trợ sinh
+                    viên - SGUET
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
+            <mj-column width="100%">
+                <mj-text padding-top="20px">
+                    <p>Thân gửi các anh, chị và các bạn thành viên ban TCSK SGUET,</p>
+
+          <p>Vậy là chặng đường Tuyển quân S11 của câu lạc bộ đã đi đến giai đoạn cuối: <strong>Vòng Teamwork</strong>. Trải qua 1 tuần làm việc hết mình, các ứng viên tiềm năng đã sẵn sàng cho buổi <strong>Trình bày và phản biện Teamwork</strong>. Và thông qua phần thể hiện của các teams, chúng ta cần đưa ra những quyết định và lựa chọn sáng suốt, tìm ra những gương mặt sáng giá nhất đến với đại gia đình SGUET. Chính vì thế, thay mặt Ban chủ nhiệm, em/mình xin gửi lời mời trân trọng nhất đến tất cả các anh, chị và các bạn giám khảo vòng Teamwork của ban TCSK cùng đến dự buổi Trình bày và phản biện của sự kiện Tuyển quân S11. 
+          </p>
+              <p>
+            Thông tin cụ thể như sau: </p>
+          <p> <strong>Buổi 1:</strong></p>
+					<ul>
+          <li><strong>🕰️ Thời gian:</strong> 19h00 ngày 15/11/2022.</li>
+					<li><strong>🧭 Địa điểm:</strong> ….</li>
+				 </ul>
+
+          <p> <strong>Buổi 2:</strong></p>
+					<ul>
+          <li><strong>🕰️ Thời gian:</strong> 19h00 ngày 16/11/2022.</li>
+					<li><strong>🧭 Địa điểm:</strong> ….</li>
+				 </ul>
+Các anh chị và các bạn vui lòng tham khảo thông tin kế hoạch vòng Teamwork và xác nhận trong form được đính kèm ở dưới để BCN có thể có sự chuẩn bị chu đáo nhất. Nếu có thông tin thêm, BCN sẽ liên lạc lại với mọi người trong thời gian sớm nhất.
+        </mj-text>
+
+            </mj-column>
+
+            <mj-column width="50%" vertical-align="middle">
+                <mj-button background-color="#4d91eb" color="#ffffff" font-size="15px" href="https://forms.gle/G9oW1HcUXF2FN919A">
+                    Xác nhận tham gia BGK</mj-button>
+            </mj-column>
+
+            <mj-column width="50%">
+                <mj-button background-color="#4d91eb" color="#ffffff" font-size="15px" href="https://drive.google.com/file/d/1xQ6E94ZHACMzssktcbkpUkwReoIX403H/view">
+                    Kế hoạch vòng Teamwork</mj-button>
+            </mj-column>
+
+
+            <mj-column width="100%" padding-top="5px">
+
+                <mj-text>
+                    <p>Thay mặt BCN ban Truyền thông,</p>
+                    <p>
+                        <strong>
+                            <i>Nguyễn Thị Hồng Hà</i>
+                        </strong>
+                    </p>
+                </mj-text>
+
+
+                <mj-spacer height="50px"></mj-spacer>
+
+            </mj-column>
+        </mj-section>
+
+
+        <mj-section>
+
+            <mj-column width="100%">
+                <mj-divider border-width="0.5px" border-color="#616161" width="80%"></mj-divider>
+            </mj-column>
+
+            <mj-column width="20%" vertical-align="middle">
+                <mj-image href="https://www.facebook.com/SupportGroupUET" src="https://raw.githubusercontent.com/nyvietnam/mjml/main/logo-sguet.png">
+                </mj-image>
+            </mj-column>
+            <mj-column width="80%">
+                <mj-text font-size="15px">
+                    <strong>Câu lạc bộ Hỗ trợ sinh viên trường Đại học Công nghệ - SGUET</strong>
+                </mj-text>
+
+                <mj-text line-height="18px">
+                    <p>
+                        <strong>Email:</strong>
+                        <a href="mailto:lienhe.sguet@gmail.com">lienhe.sguet@gmail.com</a>
+                    </p>
+                    <p>
+                        <strong>Fanpage:</strong>
+                        <a href="facebook.com/SupportGroupUET">facebook.com/SupportGroupUET</a>
+                    </p>
+                    <p>
+                        <strong>Địa chỉ:</strong>
+                        144 Xuân Thủy, Dịch Vọng, Cầu Giấy, Hà Nội.
+                    </p>
+                    <p>
+                        <strong>Điện thoại:</strong>
+                        0932321211 - Chủ nhiệm Nguyễn Trung Hiếu
+                    </p>
+                </mj-text>
+
+                <mj-social align="center" icon-size="30px">
+                    <mj-social-element href="https://www.facebook.com/SupportGroupUET" name="facebook"></mj-social-element>
+                    <mj-social-element href="https://www.youtube.com/c/SGUET/" name="youtube"></mj-social-element>
+                    <mj-social-element href="https://www.instagram.com/sguet_cfs/" name="instagram"></mj-social-element>
+                    <mj-social-element href="mailto:lienhe.sguet@gmail.com" name="google"></mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+
+    </mj-body>
+</mjml>
