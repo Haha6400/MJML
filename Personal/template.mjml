@@ -1,0 +1,119 @@
+<mjml>
+  <mj-head>
+    <mj-title>Thư mời tham dự Lễ Tốt nghiệp Đại học</mj-title>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto"></mj-font>
+    <mj-attributes>
+      <mj-all font-family="Roboto ,Helvetica, sans-serif"></mj-all>
+      <mj-text font-weight="300" font-size="14px" color="#FFA200" line-height="24px"></mj-text>
+      <mj-section padding="0px"></mj-section>
+    </mj-attributes>
+
+    <mj-style inline="inline">
+      .left {
+      background-color: #4d91eb;
+      margin-right: 5px;
+      }
+
+      .right {
+      background-color: #4d91eb;
+      margin-spacing: 10px;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-image href="https://www.facebook.com/ha.nguyen.249316/" src="https://github.com/Haha6400/MJML/blob/main/Personal/images/header.jpg?raw=true"></mj-image>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-divider border-width="2px" border-color="#FFA200" width="45%"></mj-divider>
+        <mj-text align="center" font-weight="900" padding="0px" font-size="20px"><strong>Thư mời tham dự Lễ Tốt nghiệp Đại học</strong>
+        </mj-text>
+        <mj-text align="center" font-weight="500" padding-top="14px" font-size="18px">Mừng ngày HN bị đá đít khỏi trường U
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column width="100%">
+        <mj-text padding-top="20px">
+          <p>Thân gửi Hương iu,</p>
+
+          <p>Thời gian trôi nhanh như một cơn gió (và chậm hơn deadline một chút), cuối cùng thì <strong>HN cũng đã cán đích quãng đường đại học đầy thử thách! 🎓✨ </strong> </p>
+          <p> Cách đây 3.5 năm, chúng mình đã cùng nhau trải qua các ngày tháng THPT tuyệt vời, cùng nhau tốt nghiệp trường Chu giấu tên sau 7749 chiếc drama trong những lần lượn biển Sầm Sơn mùa đông gió lạnh. Năm nay, vào khoảnh khắc được khoác áo cử nhân, cầm tấm bằng (và nở nụ cười chiến thắng) sẽ thật trọn vẹn hơn nếu HN tiếp tục có bạn ở bên, không còn là một người bạn cùng lớp như khi xưa mà là một người thân đúng nghĩa. </p>
+          <p>Vậy nên, <strong>HN rất mong được mời bạn đến dự lễ tốt nghiệp của mình để cùng nhau ghi dấu một ngày ý nghĩa này. </strong>Hãy đến và chứng kiến giây phút HN kết thúc đời sinh viên (chuyển sang đời nô lệ tư bản), chụp thật nhiều ảnh đẹp, và ghép đủ ti tỉ chiếc trend tiktok giật giật nha!</p>
+          <p> <strong>Thông tin cụ thể như sau:</strong></p>
+          <ul>
+            <li><strong>🕰️ Thời gian:</strong> 19h00 ngày 15/11/2022.</li>
+            <li><strong>🧭 Địa điểm:</strong> Hội trường Nguyễn Văn Đạo, Đại học Quốc gia Hà Nội 
+              - Số 144 Xuân Thủy, Cầu Giấy, Hà Nội</li>
+            <li><strong>🍂 Dresscode:</strong> Một tâm hồn thư giãn.</li>
+          </ul>
+          Đừng quên mang theo một chút lời chúc, một vài bức ảnh đẹp, và nếu tiện, HN sẽ không từ chối một bó hoa hoặc một cái ôm nồng choáy đâu nhé! 💐
+          <p> Nếu cậu cảm thấy ok ok có thể sắp xếp thời gian tới cùng HN, hãy confirm qua mail này, nếu không, mình cũng sẽ coi sự im lặng có nghĩa là đồng ý. Hẹn gặp lại bạn iêu trong ngày Lễ của HN xink đẹp tuyệt vời!!</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="100%" padding-top="2px">
+
+        <mj-text>
+          <p>Thay mặt các versions khác của mình,</p>
+          <p>
+            <strong>
+              <i>Nguyễn Thị Hồng Hà ❤️</i>
+            </strong>
+          </p>
+        </mj-text>
+
+
+        <mj-spacer height="50px"></mj-spacer>
+
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section>
+
+      <mj-column width="100%">
+        <mj-divider border-width="0.5px" border-color="#FFA200" width="80%"></mj-divider>
+      </mj-column>
+
+      <mj-column width="25%" vertical-align="middle">
+        <mj-image href="https://www.facebook.com/ha.nguyen.249316/" src="https://raw.githubusercontent.com/Haha6400/MJML/refs/heads/main/Personal/images/footer.png">
+        </mj-image>
+      </mj-column>
+      <mj-column width="75%">
+        <mj-text font-size="15px">
+          <strong>Nguyễn Thị Hồng Hà</strong>
+        </mj-text>
+
+        <mj-text line-height="18px">
+          <p>
+            <strong>Email:</strong>
+            <a href="mailto:ng.haha06@gmail.com">ng.haha06@gmail.com</a>
+          </p>
+          <p>
+            <strong>Facebook:</strong>
+            <a href="facebook.com/ha.nguyen.249316/">facebook.com/ha.nguyen.249316</a>
+          </p>
+          <p>
+            <strong>Điện thoại:</strong>
+            0969606295
+          </p>
+        </mj-text>
+
+        <mj-social align="center" icon-size="30px">
+          <mj-social-element href="https://www.facebook.com/ha.nguyen.249316/" name="facebook"></mj-social-element>
+          <mj-social-element href="https://www.linkedin.com/in/habyhongg/" name="linkedin"></mj-social-element>
+          <mj-social-element href="https://www.instagram.com/habyhongg/" name="instagram"></mj-social-element>
+          <mj-social-element href="mailto:ng.haha06@gmail.com" name="google"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
